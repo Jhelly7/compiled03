@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=1341483,RESOLUTION=1280x720
+https://raw.githubusercontent.com/Jhelly7/compiled03/job-witch-s01-ep11-b11/witch-s01-ep11-b11/hls/index.m3u8
